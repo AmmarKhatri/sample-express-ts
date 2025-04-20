@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES6",                          // Set the target JavaScript version
+    "target": "ES2017",                          // Set the target JavaScript version
     "module": "CommonJS",                     // Use CommonJS module system
     "outDir": "./dist",                       // Output compiled JS files to 'dist' folder
     "esModuleInterop": true,                  // Allow importing ES6 modules
